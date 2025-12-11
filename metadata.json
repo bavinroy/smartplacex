@@ -1,0 +1,7 @@
+{
+  "name": "SmartPlacex",
+  "description": "AI-driven Placement Preparation & Matching Suite providing targeted feedback on resumes, aptitude, technical skills, and communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
